@@ -1,8 +1,13 @@
-# KemingHe/pyohio-2025
+# ⚠️ [Archived] ⚠️ KemingHe/pyohio-2025
 
-> Updated on 2025-07-27 by [@KemingHe](https://github.com/KemingHe)
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+>
+> - **Archived**: 2025-07-27 by [@KemingHe](https://github.com/KemingHe)
+> - **Archive reason**: PyOhio 2025 concluded on 2025-07-27
+> - **Inquries and corrections**: email [keminghe.career@gmail.com](mailto:keminghe.career@gmail.com)
 
-Materials for PyOhio 2025 presentation "Beyond the Benchmark - Why the 'Best' Python Dependency Manager Might Not Be Best for You."
+Archive for PyOhio 2025 presentation "Beyond the Benchmark - Why the 'Best' Python Dependency Manager Might Not Be Best for You."
 
 ## 📋 Overview
 
